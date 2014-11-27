@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1417109487 source:c:\homework\konus\konus.c
+	<stdio.h>
+	<stdlib.h>
+
