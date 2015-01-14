@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1417113897 source:c:\homework\diag\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1417109487 source:c:\homework\diag\konus.c
+	<stdio.h>
+	<stdlib.h>
+

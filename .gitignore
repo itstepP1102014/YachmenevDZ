@@ -2,8 +2,12 @@
 *.exe
 *.obj
 *.[oa]
-bin/
-obj/
 *.save
 *.depend
 *.layout*
+bin/
+obj/
+<<<<<<< HEAD
+*.cbp
+=======
+>>>>>>> 20b8d908a7986c906c706fbb7e44ec4bf1a553d9
