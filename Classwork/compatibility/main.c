@@ -7,5 +7,8 @@ int main()
     char enter;
     scanf("%c", &enter);
     universalClear();
+    printf("Farevel all:'(((\n");
+    universalSleep(2.5);
+    universalClear();
     return 0;
 }
